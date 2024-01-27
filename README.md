@@ -6,4 +6,4 @@ We have an array of website templates to use above. Look at the website despcrip
 
 ## Website descriptions ##
 Single-page Website
-singlebage.html
+[single-page website](website.html)
