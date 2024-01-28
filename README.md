@@ -8,5 +8,8 @@ We have an array of website templates to use above. Look at the website despcrip
 [Single-Page Website](website.html)
 The single page website has everything on one page.
 
-[Multi-Page/Navbar](navbar.html)
-This template has multible pages with a navigation bar, homever, each page says the same thing, so your going to have to edit it.
+[Multi-Page Website/](navbar.html)
+A multi-page website that has the pages not linked.
+
+[Multi-Page Website](multi-navbar)
+A multi-page website with the pages linked.
