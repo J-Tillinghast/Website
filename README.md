@@ -1,4 +1,4 @@
-# Welcomto the Website #
+# Welcome to Website-Templates #
 This is a place to get open-source customizable website templates.
 
 ## Navigation and Guide ##
